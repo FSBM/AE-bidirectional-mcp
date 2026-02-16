@@ -67,3 +67,10 @@ yarn-error.log*
 CLAUDE.md
 settings.local.json
 
+# Large binary files (exceed GitHub 100MB limit)
+*.psd
+*.aep
+*.ai
+*.zip
+*.rar
+
