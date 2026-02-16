@@ -1,0 +1,128 @@
+Report created: 
+	2/13/2026	7:25:55 PM
+
+Project name: Laptop 10 Sec.aep
+
+Source files collected to: 
+	H:\Ashish Tambe\Flipkart_Feb-26\Laptop-10 Sec\Laptop 10 Sec folder
+
+Source files collected: All
+
+Collected comps:  
+	BG
+	f
+	date
+	logo
+	F3
+	Simple Distorted Zoom Out
+	Generated Light Leak 1
+	Laptop-10Sec - 13th Feb
+	Laptop-10Sec - 13th Feb (1)
+	Laptop-10Sec - 13th Feb (2)
+	bg
+	date
+	logo
+	F1 copy - ignore
+	Group 4
+	date
+	logo
+	F2 copy - ignore
+	bg
+	date
+	logo
+	F3 copy - ignore
+	bg
+	F1
+	bg
+	date
+	logo
+	F2
+	bg
+	F3
+	bg
+	F
+	selection box
+	price
+	copy
+	date
+	logo
+	F4
+	bg
+	Group 3
+	selection box
+	price
+	copy
+	date
+	logo
+	F5
+	bg
+	date
+	logo
+	F6
+	date
+	logo
+	
+Number of collected files:  6
+
+Size of collected files:  1014 MB
+
+Collected source files: 
+	H:\Ashish Tambe\Flipkart_Feb-26\dell laptop 6sec folder\(Footage)\AC Precomps\Simple Distorted Zoom Out\Footage\Transition Complex 11.wav
+	H:\Ashish Tambe\Flipkart_Feb-26\dell laptop 6sec folder\(Footage)\assets\alexguz-groove-funk-296391.mp3
+	H:\Ashish Tambe\Flipkart_Feb-26\dell laptop 6sec folder\(Footage)\assets\Bank Strip_Eng 1440x200 copy.png
+	H:\Ashish Tambe\Flipkart_Feb-26\dell laptop 6sec folder\(Footage)\project\laptop Layers\laptop.psd
+	H:\Ashish Tambe\Flipkart_Feb-26\Laptop-10 Sec\Layer 1.png
+	H:\Ashish Tambe\Flipkart_Feb-26\Laptop-10Sec - 13th Feb.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  21
+
+Effect:  
+	
+Effect:  Bulge
+	
+Effect:  CC Composite (obsolete)
+	
+Effect:  CC Light Sweep
+	
+Effect:  Checkbox Control
+	
+Effect:  Color Control
+	
+Effect:  Curves
+	
+Effect:  Directional Blur
+	
+Effect:  Emboss
+	
+Effect:  Fast Box Blur
+	
+Effect:  Grid
+	
+Effect:  Hue/Saturation
+	
+Effect:  Motion Tile
+	
+Effect:  Optics Compensation
+	
+Effect:  Point Control
+	
+Effect:  Shift Channels
+	
+Effect:  Slider Control
+	
+Effect:  Solid Composite
+	
+Effect:  Tint
+	
+Effect:  Transform
+	
+Effect:  Turbulent Noise
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Arial”, Font style: “Bold”
+
