@@ -93,8 +93,3 @@ This script demonstrates the sophisticated capabilities of the LLM-driven approa
 5.  **Cleanup**: It iterates through layers to disable old backgrounds ("desk", "background"), preventing visual clutter.
 6.  **Feedback**: It outputs a JSON result indicating exactly what was changed, which the LLM reads to confirm success.
 
-## 6. Why use this approach?
-
--   **Reliability**: Using file-based IPC avoids network permissions issues common in corporate environments or legacy AE versions.
--   **State Awareness**: The Introspection->Generation loop allows the LLM to handle complex projects where layer indices shift.
--   **Verification**: The system returns explicit success/error messages, allowing the LLM to self-correct (e.g., "Layer 'BG' not found" -> LLM retries with 'Background').
